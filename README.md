@@ -2,6 +2,7 @@
 [LoadedCommerce Data Migration Tool](https://d2d-soft.com/22-loaded-migration) is a solution for migrating data to LoadedCommerce from another platform. The tool support migrating many entity types (taxes, manufacturers, categories, products, customers, orders, reviews) with many options. The tool can work in the local environment or the online environment. We also provide the [Custom Migration Service](https://d2d-soft.com/migration-services/296-data-migration-customization.html) if you have a specific requirement. 
 
 ## Products
+- [AmeriCommerce to Loaded Commerce Migration](https://d2d-soft.com/loaded-migration/770-7247-americommerce-to-loaded-migration-tool.html#/72-entities-1000)
 - [BigCommerce to Loaded Commerce Migration](https://d2d-soft.com/loaded-migration/413-1667-bigcommerce-to-loaded-migration-tool.html#/72-entities-1000)
 - [CS-Cart to Loaded Commerce Migration](https://d2d-soft.com/loaded-migration/324-1387-cs-cart-to-loaded-migration-tool.html)
 - [CubeCart to Loaded Commerce Migration](https://d2d-soft.com/loaded-migration/122-532-cubecart-to-loaded-migration-tool.html)
@@ -17,6 +18,7 @@
 - [osCommerce to Loaded Commerce Migration](https://d2d-soft.com/loaded-migration/126-552-oscommerce-to-loaded-migration-tool.html)
 - [OXID-eShop to Loaded Commerce Migration](https://d2d-soft.com/loaded-migration/127-557-oxid-eshop-to-loaded-migration-tool.html)
 - [Prestashop to Loaded Commerce Migration](https://d2d-soft.com/loaded-migration/128-562-prestashop-to-loaded-migration-tool.html)
+- [Salesforce to Loaded Commerce Migration](https://d2d-soft.com/loaded-migration/718-6726-salesforce-to-loaded-migration-tool.html#/72-entities-1000)
 - [Shopify to Loaded Commerce Migration](https://d2d-soft.com/loaded-migration/376-1487-shopify-to-loaded-migration-tool.html#/72-entities-1000)
 - [VirtueMart to Loaded Commerce Migration](https://d2d-soft.com/loaded-migration/129-567-virtuemart-to-loaded-migration-tool.html)
 - [Volusion to Loaded Commerce Migration](https://d2d-soft.com/loaded-migration/641-5923-volusion-to-loaded-migration-tool.html#/72-entities-1000)
@@ -28,6 +30,7 @@
 - [ZenCart to Loaded Commerce Migration](https://d2d-soft.com/loaded-migration/134-592-zencart-to-loaded-migration-tool.html)
 
 ## Supported Platforms
+- [AmeriCommerce](https://www.americommerce.com/)
 - [BigCommerce](https://www.bigcommerce.com/)
 - [CS-Cart](https://www.cs-cart.com/)
 - [CubeCart](https://www.cubecart.com/)
@@ -43,6 +46,7 @@
 - [osCommerce](https://www.oscommerce.com/)
 - [OXID-eShop](https://www.oxid-esales.com)
 - [PrestaShop](https://www.prestashop.com)
+- [Salesforce](https://www.salesforce.com/)
 - [Shopify](https://www.shopify.com/)
 - [VirtueMart](https://virtuemart.net/)
 - [Volusion](https://volusion.com/)
