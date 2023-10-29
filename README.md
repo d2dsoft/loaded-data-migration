@@ -3,6 +3,7 @@
 
 ## Products
 - [AmeriCommerce to Loaded Commerce Migration](https://d2d-soft.com/loaded-migration/770-7247-americommerce-to-loaded-migration-tool.html#/72-entities-1000)
+- [Bagisto to Loaded Commerce Migration](https://d2d-soft.com/loaded-migration/937-8956-bagisto-to-loaded-migration-tool.html#/72-entities-1000)
 - [BigCommerce to Loaded Commerce Migration](https://d2d-soft.com/loaded-migration/413-1667-bigcommerce-to-loaded-migration-tool.html#/72-entities-1000)
 - [CS-Cart to Loaded Commerce Migration](https://d2d-soft.com/loaded-migration/324-1387-cs-cart-to-loaded-migration-tool.html)
 - [CubeCart to Loaded Commerce Migration](https://d2d-soft.com/loaded-migration/122-532-cubecart-to-loaded-migration-tool.html)
@@ -34,6 +35,7 @@
 
 ## Supported Platforms
 - [AmeriCommerce](https://www.americommerce.com/)
+- [Bagisto](https://bagisto.com/)
 - [BigCommerce](https://www.bigcommerce.com/)
 - [CS-Cart](https://www.cs-cart.com/)
 - [CubeCart](https://www.cubecart.com/)
