@@ -20,6 +20,7 @@
 - [Magento to Loaded Commerce Migration](https://d2d-soft.com/loaded-migration/124-542-magento-to-loaded-migration-tool.html)
 - [MarketPress to Loaded Commerce Migration](https://d2d-soft.com/loaded-migration/567-2387-marketpress-to-loaded-migration-tool.html#/72-entities-1000)
 - [OpenCart to Loaded Commerce Migration](https://d2d-soft.com/loaded-migration/125-547-opencart-to-loaded-migration-tool.html)
+- [osCMax to Loaded Commerce Migration](https://d2d-soft.com/loaded-migration/1191-11545-oscmax-to-loaded-migration-tool.html#/72-entities-1000)
 - [osCommerce to Loaded Commerce Migration](https://d2d-soft.com/loaded-migration/126-552-oscommerce-to-loaded-migration-tool.html)
 - [OXID-eShop to Loaded Commerce Migration](https://d2d-soft.com/loaded-migration/127-557-oxid-eshop-to-loaded-migration-tool.html)
 - [Prestashop to Loaded Commerce Migration](https://d2d-soft.com/loaded-migration/128-562-prestashop-to-loaded-migration-tool.html)
@@ -55,6 +56,7 @@
 - [Magento](https://magento.com/)
 - MarketPress
 - [OpenCart](https://www.opencart.com/)
+- osCMax
 - [osCommerce](https://www.oscommerce.com/)
 - [OXID-eShop](https://www.oxid-esales.com)
 - [PrestaShop](https://www.prestashop.com)
